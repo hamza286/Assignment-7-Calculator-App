@@ -1,0 +1,51 @@
+.main{
+    border: 2px solid grey;
+    width: 200px;
+    margin: 0 auto;
+
+   
+}
+
+.heading{
+    color: grey;
+    text-align: center;
+}
+
+.result{
+    width: 96%;
+    background-color:whitesmoke
+    color: black;
+}
+
+.clearBTN , .percent , .divide{
+    width: 45px;
+    /* background-color:#bbb ; */
+    margin: 1px;
+
+}
+
+.OTCBTN{
+    width: 45px;
+    background-color:grey ;
+    margin: 1px;
+}
+.btn{
+    width: 45px;
+    background-color: ;
+    margin: 1px;
+}
+
+.HALFbtn{
+    width: 45px;
+    background-color:grey ;
+    margin: 1px;
+}
+
+.btnh{
+    margin-left: 38px;
+    width: 60px;
+}
+
+.others{
+    margin-left: 50px;
+}
